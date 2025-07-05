@@ -1,7 +1,107 @@
 [
-  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
-  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
-  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
-  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1580894894514-1ec76ce4b631"
+  },
+  {
+    "id": 3,
+    "name": "Ultra‑Wide Monitor",
+    "category": "Electronics",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1593642634367-d91a135587b5"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair",
+    "category": "Furniture",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1578894382173-d0d53c423aa1"
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 1199,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e17b"
+  },
+  {
+    "id": 6,
+    "name": "Smart LED TV 55\"",
+    "category": "Electronics",
+    "price": 1099,
+    "image": "https://images.unsplash.com/photo-1587825140708-6c4a20f61e4b"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1587574293340-ec5b3c8b1e93"
+  },
+  {
+    "id": 8,
+    "name": "Gaming Keyboard",
+    "category": "Electronics",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1611532731749-bb3fa4f69c2b"
+  },
+  {
+    "id": 9,
+    "name": "Smartphone Charger Stand",
+    "category": "Electronics",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1611078489935-2a02b1429e79"
+  },
+  {
+    "id": 10,
+    "name": "Corner Bookshelf",
+    "category": "Furniture",
+    "price": 349,
+    "image": "https://images.unsplash.com/photo-1584467735871-53a48ed7c5f3"
+  },
+  {
+    "id": 11,
+    "name": "Glass Coffee Table",
+    "category": "Furniture",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc"
+  },
+  {
+    "id": 12,
+    "name": "Leather Recliner",
+    "category": "Furniture",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1601979031925-3ccde5e8e5a0"
+  },
+  {
+    "id": 13,
+    "name": "4K Webcam",
+    "category": "Electronics",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 14,
+    "name": "Air Purifier",
+    "category": "Electronics",
+    "price": 329,
+    "image": "https://images.unsplash.com/photo-1616627982685-4c8d6f121f2a"
+  },
+  {
+    "id": 15,
+    "name": "Modern Floor Lamp",
+    "category": "Furniture",
+    "price": 279,
+    "image": "https://images.unsplash.com/photo-1616627562121-9e0666e73128"
+  }
 ]

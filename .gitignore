@@ -1,0 +1,14 @@
+# Ignore node modules
+**/node_modules/
+**/dist/
+**/build/
+
+# Ignore logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Ignore system files
+.DS_Store
